@@ -1,0 +1,7 @@
+pygame
+pydub
+numpy
+pyglet
+pyinput
+screen-reader-python
+```
